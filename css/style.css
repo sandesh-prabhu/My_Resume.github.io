@@ -740,7 +740,7 @@ a:focus {
     display: flex;
     align-items: center;
     box-shadow: inset 0 0 0 0 transparent;
-    transition: ease-out 0.5s;
+    /*transition: ease-out 0.5s;*/
 }
 
 .interests .interests-item:hover {
